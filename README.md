@@ -36,4 +36,5 @@
 ## Step
 
 1. GLPN_imgtodepth
-2. bin_to_pcd
+2. depth_to_point
+3. bin_to_pcd
